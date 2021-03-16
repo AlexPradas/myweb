@@ -1,0 +1,12 @@
+[23-Sep-2017 07:26:58 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home3/alexprad/public_html/wp-content/plugins/hello.php on line 60
+[21-Nov-2017 19:14:03 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home3/alexprad/public_html/wp-content/plugins/hello.php on line 60
+[10-Feb-2018 19:09:46 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home3/alexprad/public_html/wp-content/plugins/hello.php on line 60
+[11-Mar-2018 01:15:37 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home3/alexprad/public_html/wp-content/plugins/hello.php on line 60
+[31-May-2018 12:19:35 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home3/alexprad/public_html/wp-content/plugins/hello.php on line 60
+[10-Jun-2018 03:38:27 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home3/alexprad/public_html/wp-content/plugins/hello.php on line 60
+[10-Jun-2018 03:38:30 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home3/alexprad/public_html/wp-content/plugins/hello.php on line 60
+[30-Jan-2019 20:51:37 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home3/alexprad/public_html/wp-content/plugins/hello.php on line 60
+[10-Feb-2019 03:01:25 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home3/alexprad/public_html/wp-content/plugins/hello.php on line 60
+[07-Apr-2019 03:25:16 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home3/alexprad/public_html/wp-content/plugins/hello.php on line 60
+[07-Apr-2019 03:25:45 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home3/alexprad/public_html/wp-content/plugins/hello.php on line 60
+[17-Sep-2019 15:59:08 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home3/alexprad/public_html/wp-content/plugins/hello.php on line 60

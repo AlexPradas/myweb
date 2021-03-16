@@ -1,0 +1,126 @@
+/*
+ Theme Name:   PIngenia 
+ Theme URI:    http://example.com/twenty-fifteen-child/
+ Description:  Divi Child Theme
+ Author:       Alejandro F. Prads
+ Author URI:   http://pingenia.com
+ Template:     Divi
+ Version:      3.0.14
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  pingenia
+*/
+/*@import url("../divi/style.css");
+*/
+/* =Aquí empieza la personalización de tu tema
+-------------------------------------------------------------- */
+
+//TEST PARA GIT
+
+h1,h2,h3,h4 {
+font-family: 'Josefin Sans', sans-serif;
+font-weight: 400 !important;
+
+ }
+
+ .et_pb_blurb_container h4{
+        font-weight: bold !important;
+}
+
+ .home #main-header, .page-id-100 #main-header, .page-id-192 #main-header {
+    position: absolute !important;
+    background-color: transparent !important;
+}
+
+#top-menu li.current-menu-item>a {
+    color: #7bd2c7
+}
+.home #page-container, .page-id-100 #page-container, .page-id-192 #page-container {
+    padding-top: 0 !important;
+ }
+
+/* .home #main-header a{
+    color:#666666;
+}*/
+/*#main-header {
+    position: absolute !important;
+    background-color: transparent !important;
+}
+*/
+/*#page-container{
+    padding-top: 0 !important;
+ }*/
+
+.et_pb_slider .et_pb_slide_0{
+    background-position: center !important;
+}
+
+.et_pb_section_0.et_pb_section{
+    padding-top: 0 !important;
+}
+
+/*#main-header a{
+    color:#666666;
+}*/
+
+/* 
+ .page-id-100 .et_pb_section_1 img{
+ 	border-radius:50%;
+ 	max-width: 200px;
+ }
+
+ body{
+	font-family: 'Playfair Display', serif;
+ }
+
+
+
+*/
+/*.home .et_pb_slide{
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+    overflow: hidden;
+    position: fixed;
+    }
+
+.home .et_pb_slide_description{
+	top:110px;
+	position: relative;
+	animation-name:none;
+}
+
+.home .et_pb_slide_description h2{
+   line-height: 70px;
+    font-size: 70px;
+
+    }
+
+.home .et_pb_slide_description p{
+		padding-top: 30px;
+	    font-size: 20px;
+}
+.pi{
+	font-size: 30px;
+}
+
+.home #main-footer{
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+    z-index: 99;
+	background-color: transparent;
+
+    }
+
+.home #footer-bottom{
+	background-color: transparent;
+
+}
+.home #footer-bottom p, .home #footer-bottom a{
+		color:#eee;
+
+}
+#footer-info{
+	display: none;
+}*/
